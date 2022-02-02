@@ -1,9 +1,6 @@
 ## Verilog Codes 
 Verilog modules and Test Benches for
-###
-	tcs3200 color_sensor 
-###	
-	xbee radio module
-###	
-	line sensor
+1. TCS3200 color_sensor to find RGB Colors using frequency counter. 
+2. UART receiver of ascii characters using xbee radio module.
+3. Line sensor to detect black line using ADC.
 
