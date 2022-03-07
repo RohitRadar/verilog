@@ -1,7 +1,7 @@
 ## Dijkstras Algorithm
-Novelty:
+### Novelty:
 - Capable of storing/outputting direction information at each node (North/East/South/West) when traversing the map.
-File structure
+### File structure
 1. Dijkstras.v: Dijkstras algorithm implemented in verilog
 2. RAM.v: Single Port Read/Write SDRAM module to store node/dirction information
 3. map_data.txt: Contains node and direction information
